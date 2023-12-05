@@ -1,6 +1,8 @@
+<h1 align="center"> Web Site - Currículo </h1>
+
 </p>
 
-<p align ="center">
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>     |    
   <a href="#-projeto">Projeto</a>     
 </p>
